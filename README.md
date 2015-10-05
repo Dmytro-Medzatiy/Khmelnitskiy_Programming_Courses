@@ -1,6 +1,10 @@
 ## Programming Courses 
 
+---
+
 *This repository has been created in order to collect and share information about Off-line and On-line programming courses in Ukraine*
+
+---
 
 To add information please send a pull request to this repository
 
