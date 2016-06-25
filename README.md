@@ -13,9 +13,9 @@ Directory structure of repository:
      Country
       |___City
         |___Programming Language
-              |___Vendor.doc
+              |___Vendor.md
 
-Each **Vendor.doc** should contain description of the proposed course:
+Each **Vendor.md** should contain description of the proposed course:
 
 1. On-line or Off-line
 2. Duration
